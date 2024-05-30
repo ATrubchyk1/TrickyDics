@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="Тут путь к фото"" width="256">
+      <img src="Assets/Resources/Images/Icon/game_icon.png"" width="256">
 </p>
 
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 ## About
-**Tricky Dics** — Придумать описание.
+**Tricky Dics** — это динамичная аркадная игра, в которой игроки должны ловко управлять своим персонажем, чтобы заработать очки. Точность и скорость реакции имеют решающее значение..
 
-[[Video on YouTube]]( Тут видео)
+[[Video on YouTube]](https://youtube.com/shorts/uH7KpF0WaTI)
 
 ## Screenshots
-![Скриншот 1](Тут скрин)
-![Скриншот 2](Тут скрин)
+![Скриншот 1](Assets/Resources/Images/288х510.png)
+![Скриншот 2](Assets/Resources/Images/22222.png)
